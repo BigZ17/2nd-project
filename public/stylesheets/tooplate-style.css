@@ -128,11 +128,11 @@ p {
 }
 
 #tm-section-1 {	
-	background-image: url('../img/bg-img-1.jpg');	
+	background-image: url('/stylesheets/img/bg-img-1.jpg');	
 	height: 515px;
 }
 
-#tm-section-5 { background-image: url('../img/bg-img-2.jpg'); }
+#tm-section-5 { background-image: url('/stylesheets/img/bg-img-2.jpg'); }
 
 #tm-section-6 {
 	background-image: url('../img/bg-img-3.jpg');
